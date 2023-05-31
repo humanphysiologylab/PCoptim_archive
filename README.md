@@ -4,7 +4,7 @@ This distribution contains code for processing patch-clamp data via experimetnal
 
 ## Installation and usage
 
-1. This code uses Sundials CVODE solver v. 6.5.1. While necessary shared and headers libraries are included in the distribution, you might want to modify path in /src/model_ctypes/Makefile according to you distribution. OpenMPI is not neccessary,but highly recommended.
+1. This code uses Sundials CVODE solver v. 6.5.1. While necessary shared and headers libraries are included in the repository, you might want to modify path in /src/model_ctypes/Makefile according to your system distribution. OpenMPI is not neccessary,but highly recommended.
 
 
 2. Compile the patch-clamp model C code. 
